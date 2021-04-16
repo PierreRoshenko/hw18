@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/hw18/static/css/main.de2fc639.chunk.css",
+    "main.js": "/hw18/static/js/main.0daf2ef3.chunk.js",
+    "main.js.map": "/hw18/static/js/main.0daf2ef3.chunk.js.map",
+    "runtime-main.js": "/hw18/static/js/runtime-main.3e7c3160.js",
+    "runtime-main.js.map": "/hw18/static/js/runtime-main.3e7c3160.js.map",
+    "static/js/2.47b8a100.chunk.js": "/hw18/static/js/2.47b8a100.chunk.js",
+    "static/js/2.47b8a100.chunk.js.map": "/hw18/static/js/2.47b8a100.chunk.js.map",
+    "static/js/3.380f749d.chunk.js": "/hw18/static/js/3.380f749d.chunk.js",
+    "static/js/3.380f749d.chunk.js.map": "/hw18/static/js/3.380f749d.chunk.js.map",
+    "index.html": "/hw18/index.html",
+    "static/css/main.de2fc639.chunk.css.map": "/hw18/static/css/main.de2fc639.chunk.css.map",
+    "static/js/2.47b8a100.chunk.js.LICENSE.txt": "/hw18/static/js/2.47b8a100.chunk.js.LICENSE.txt",
+    "static/media/fonts.css": "/hw18/static/media/icomoon.f3aa77c2.eot",
+    "static/media/logo.6ce24c58.svg": "/hw18/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e7c3160.js",
+    "static/js/2.47b8a100.chunk.js",
+    "static/css/main.de2fc639.chunk.css",
+    "static/js/main.0daf2ef3.chunk.js"
+  ]
+}
