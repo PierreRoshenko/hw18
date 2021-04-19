@@ -64,15 +64,7 @@ class Contacts extends Component{
         this.setState({res: e.target.value})
         
     }
-    maleFilter = e=>{
-    if(e.target.checked){
-        
-        this.setState({contacts: this.state.contactsBook.filter(contact=>contact.gender=="male")})
-    } 
-    }
-    fameleFilter = e =>{
-    if(e.target.checked) this.setState({contacts: this.state.contactsBook.filter(contact=>contact.gender=="famale")})
-    }    
+     
     
 
     render(){
