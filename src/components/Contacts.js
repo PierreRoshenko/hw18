@@ -77,9 +77,7 @@ class Contacts extends Component{
             <input type="text" className="search" onChange={this.searching}/>
             <button></button>
         </div>
-            <input type="checkbox" defaultChecked onChange={this.maleFilter} id=""/>
-            <input type="checkbox" defaultChecked onChange={this.fameleFilter} id=""/>
-        <input type="checkbox" defaultChecked id=""/>
+          
             <div className="contact-book">
                 {book.map((contact, i)=><Contact contact={contact} key={i}  />)}
             </div>
